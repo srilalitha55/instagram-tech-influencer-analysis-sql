@@ -44,5 +44,7 @@ FROM gdb0120.fact_content;
 ```
 ### Output
 
-![Query 01 Output](OUTPUTS/OUTPUT_01.png)
+![Query 01 Output](OUTPUTS/OUTPUT_01.png) 
+
+
 
