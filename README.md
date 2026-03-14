@@ -88,8 +88,11 @@ ENCLOSED BY '"'
 ![Question 03 Output](OUTPUTS/OUTPUT_03.png)
 
 ## Question 04 – Create a report to get the statistics for the account. The final output includes the following fields: 
+
 • month_name 
+
 • total_profile_visits 
+
 • total_new_followers
 
 ### SQL Query
