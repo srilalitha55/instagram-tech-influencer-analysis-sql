@@ -151,7 +151,7 @@ Example:
 
 ### SQL Query
 
-``` SELECT
+```SELECT
   dd.month_name,
   GROUP_CONCAT(DISTINCT fc.post_category ORDER BY fc.post_category SEPARATOR ',') AS post_category_names,
   COUNT(DISTINCT fc.post_category) AS post_category_count
